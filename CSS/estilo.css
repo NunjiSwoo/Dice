@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://media.discordapp.net/attachments/981697658894839848/1082713036856496128/KmRaider_A_squad_facing_a_dragon_DD_realistic_8K_fatasy_fantast_8375b6e2-b117-4882-84c3-2db1b712537c.png?width=1028&height=587);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 100%;
+    font: normal 15pt Arial;
+}
+header{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.608);
+    text-align: center;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.res{
+    word-break: break-all;
+    width: 500px;
+    justify-content: center;
+}
+.imgDado{
+    height: 100px;
+}
+#comands{
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
